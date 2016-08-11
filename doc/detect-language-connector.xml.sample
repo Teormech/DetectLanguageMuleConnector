@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(detect-language:greet) -->
+    <detect-language:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(detect-language:greet) -->
